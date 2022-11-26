@@ -1,10 +1,14 @@
 👋 Hi, I’m Ala Shlibak
 
-💻 Part time Tutor @ myTutor - Since 2021
-🎓 Full time Computer Science student @ UoP - 3rd year
-👀 I’m interested in Software Engineering and Web/App development
+💻 A part time Maths and Python Tutor @ [myTutor](https://www.mytutor.co.uk/) - Since 2021
 
-📫 How to reach me www.linkedin.com/in/ala-shlibak
+🎓 A full time Computer Science student @ [UoP](https://www.port.ac.uk/) - 3rd year
+
+👀 Aspire to be progress into a Software engineering and Web/App development graduate scheme
+
+💕 Passionate about technology
+
+📫 [LinkedIn](www.linkedin.com/in/ala-shlibak)
 
 <!---
 UP2026661/UP2026661 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
