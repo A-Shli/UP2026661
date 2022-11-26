@@ -4,7 +4,7 @@
 
 🎓 A full time Computer Science student @ [UoP](https://www.port.ac.uk/) - 3rd year
 
-👀 Aspire to be progress into a Software engineering and Web/App development graduate scheme
+👀 Aspire to be progress into a Software engineering or Web/App development graduate scheme
 
 💕 Passionate about technology
 
