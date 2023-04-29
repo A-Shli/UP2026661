@@ -1,0 +1,19 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 140px;
+    padding: 0 20px;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .logo img {
+    height: 50px;
+  }
+  
+  .website-name h1 {
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+  }

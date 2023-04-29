@@ -1,0 +1,18 @@
+.description-section {
+    padding: 40px 20px;
+    background-color: #f8f8f8;
+  }
+  
+  .description-section h2 {
+    font-size: 32px;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .description-section p {
+    font-size: 16px;
+    line-height: 1.5;
+    color: #666;
+  }
+ 
