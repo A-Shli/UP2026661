@@ -1,6 +1,6 @@
 👋 Hi, I’m Ala Shlibak
 
-💻 A part time Maths and Python Tutor @ [myTutor](https://www.mytutor.co.uk/) - Since 2021
+💻 A part time Maths Tutor @ [myTutor](https://www.mytutor.co.uk/) - Since 2021
 
 🎓 A full time Computer Science student @ [UoP](https://www.port.ac.uk/) - 3rd year
 
