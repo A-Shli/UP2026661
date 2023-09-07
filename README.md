@@ -2,9 +2,9 @@
 
 💻 A part time Maths Tutor @ [myTutor](https://www.mytutor.co.uk/) - Since 2021
 
-🎓 A full time Computer Science student @ [UoP](https://www.port.ac.uk/) - 3rd year
+🎓 A Computer Science Graduate @ UoP
 
-👀 Aspire to be progress into a Software engineering or Cyber Security Graduate Scheme
+👀 Aspire to progress into a Software engineering or Cyber Security Graduate Scheme
 
 💕 Passionate about technology
 
